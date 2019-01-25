@@ -16,7 +16,7 @@ public class AntStuff1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello World for slynes4");
+        Systems.out.println("Hello World for slynes4");
     }
     
 }
